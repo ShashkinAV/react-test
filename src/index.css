@@ -1,0 +1,12 @@
+footer {
+  background-color: grey;
+}
+.activeLink {
+  color: red;
+}
+a {
+  text-decoration: none;
+}
+.content__wrapper {
+  height: 80vh;
+}
